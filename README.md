@@ -1,7 +1,7 @@
 # Cuneiform Identification Final Presentation
 
 ## Dataset
-The dataset used for this project contains cuneiform transcriptions of two languages: Akkadian and Sumerian. Akkadian further comprises six distinct dialects. The dataset can be found [here](https://www.kaggle.com/datasets/wilstrup/cuneiform-language-identification/data).
+The dataset used for this project contains cuneiform transcriptions of two languages: Akkadian and Sumerian. There is one category for Summerian, and six different categories for Akkadian which represent different dialects. The dataset can be found [here](https://www.kaggle.com/datasets/wilstrup/cuneiform-language-identification/data).
 
 ## Objectives
 ### Primary Objective
